@@ -98,3 +98,151 @@
         </tr>
     </table>
 
+
+</body>
+
+</head>
+
+</body>    
+<div id="Kakepo_news">
+    <a href="Kakepo_news"></a>
+    <h1>Kakepo Accomodations!</h1>
+</div>
+            <article>
+            <h3>Get an idea of the Kakepo Chalet!</h3>
+                <label class="Container2" >
+<div>
+    <div class="container">
+            <div class="wrapper-left">
+                <img src="images/kakapo/cabin_exterior.jpg" alt="Cabin Exterior">
+                <h4> Kakepo Chalets</h4>
+            </div>
+            <div class="wrapper-left text-box">
+                <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+            </div>
+        </div>
+            <!-- Second Pair -->
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/kakapo/cabin_view.jpg" alt="Cabin Exterior">
+                    <h4> Kakepo Chalet View</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/kakapo/bunk_room.jpg" alt="Cabin Exterior">
+                    <h4> Kakepo Chalet Inner</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+        
+            <!-- Clear the floats -->
+            <div class="clearfix"></div>
+        </div>
+</div>
+
+<div id="Pukeko_news">
+    <a href="Pukeko_news"></a>
+    <h1>Pukeko Accomodations!</h1>
+</div>
+            <article>
+            <h3>Get an idea of the Pukeko Chalet!</h3>
+                <label class="Container2" >
+<div>
+    <div class="container">
+            <div class="wrapper-left">
+                <img src="images/pukeko/chalet_exterior.jpg" alt="Cabin Exterior">
+                <h4> Pukeko Chalets</h4>
+            </div>
+            <div class="wrapper-left text-box">
+                <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+            </div>
+        </div>
+            <!-- Second Pair -->
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/pukeko/chalet_view.jpg" alt="Cabin Exterior">
+                    <h4>Pukeko Chalet View</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/pukeko/adult_bedroom.jpg" alt="Cabin Exterior">
+                    <h4> Pukeko Chalet Bedroom</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+        
+            <div class="container">
+            <div class="wrapper-left">
+                <img src="images/pukeko/bathroom.jpg" alt="Cabin Exterior">
+                <h4> Pukeko Chalet Bathroom</h4>
+            </div>
+            <div class="wrapper-left text-box">
+                <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+            </div>
+        </div>
+
+            <!-- Clear the floats -->
+            <div class="clearfix"></div>
+        </div>
+</div>
+
+<div id="Keruru_news">
+    <a href="Kereru_news"></a>
+    <h1>Keruru Accomodations!</h1>
+</div>
+            <article>
+            <h3>Get an idea of the Kereru Chalets!</h3>
+                <label class="Container2" >
+<div>
+    <div class="container">
+            <div class="wrapper-left">
+                <img src="images/kereru/cabin_exterior.jpg" alt="Cabin Exterior">
+                <h4> Kereru Chalets</h4>
+            </div>
+            <div class="wrapper-left text-box">
+                <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+            </div>
+        </div>
+            <!-- Second Pair -->
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/kereru/adult_bedroom.jpg" alt="Cabin Exterior">
+                    <h4> Kereru Chalet Bedroom</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/kereru/kitchen.jpg" alt="Cabin Exterior">
+                    <h4> Kereru Chalet Kitchen</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="wrapper-left">
+                    <img src="images/kereru/kids_bedroom.jpg" alt="Cabin Exterior">
+                    <h4> Kereru Chalet Kid Bedroom</h4>
+                </div>
+                <div class="wrapper-left text-box">
+                    <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
+                </div>
