@@ -43,3 +43,27 @@
             <article>
             <h3>Get an idea of our Camp Maunga!</h3>
     <img style=width:500px; src="images/maunga_club_cabin.jpg" alt="Bridge Jump"  class="center">
+
+<div class="text-box">
+        <body bgcolor="white"> </body>
+        <ul style=“list-style-type:disc”>
+
+            <div class="table-container"> 
+
+            <li>Only Club Members May Access Chalets</li>
+            
+            <li>All chalet bookings must be from Friday to Sunday.</li>
+            
+            <li>Chalets offer shared accommodation for between 6 and 40 people per chalet.</li>
+
+            <li>All three chalets are on the mountain, so you can ski to and from the chalets.</li>
+            
+            <li>The mountain gives 550 hectares of skiing/snowboarding area, and the longest
+                ski/snowboard season in New Zealand.</li>
+
+            <li>The table below summarises key features of the three chalets, including the
+                maximum number of adults and children that each chalet can accommodate.</li>
+            </ul>
+            
+    </div>
+
