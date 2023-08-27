@@ -337,3 +337,51 @@
 </label>
                     <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
                 </div>
+
+<script>
+     
+const decreaseButton = document.getElementById('decrease-btn');
+const increaseButton = document.getElementById('increase-btn');
+const numPeopleSpan = document.getElementById('num-people');
+const numPeopleInput = document.getElementById('num-people-input');
+
+decreaseButton.addEventListener('click', () => {
+const currentNum = parseInt(numPeopleSpan.textContent);
+if (currentNum > 0) {
+    numPeopleSpan.textContent = currentNum - 1;
+    numPeopleInput.value = currentNum - 1;
+}
+});
+
+increaseButton.addEventListener('click', () => {
+const currentNum = parseInt(numPeopleSpan.textContent);
+numPeopleSpan.textContent = currentNum + 1;
+numPeopleInput.value = currentNum + 1;
+});
+
+function showErrorPopup() {
+    const errorPopup = document.getElementById("error-popup");
+    errorPopup.style.display = "block";
+}
+
+function closeErrorPopup() {
+    const errorPopup = document.getElementById("error-popup");
+    errorPopup.style.display = "none";
+}
+function showPopup() {
+    const popup = document.getElementById("popup");
+    popup.style.display = "block";
+}
+
+function closePopup() {
+    const popup = document.getElementById("popup");
+    popup.style.display = "none";
+}
+
+
+
+
+
+
+</script>
+</html>
