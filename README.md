@@ -244,5 +244,96 @@
                     <h4> Kereru Chalet Kid Bedroom</h4>
                 </div>
                 <div class="wrapper-left text-box">
+
+                           <div class="clearfix"></div>
+        </div>
+</div>
+
+
+    </script>
+</label>
+    <footer>
+        <p><small>&copy; Camp Maunga 2023 - Website By Joe Mama</small></p>
+    </footer>
+
+    <style>
+        body {
+            background-image: url('./images/mountain_view_1.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+ <label id="Container1" > Shambala
+    <div id="Sign_Up">
+        <a href="Sign_Up"></a>
+        <h1></h1>
+    </div>
+
+    <form action="action_page.php" style="border:1px solid #ccc">
+        <div class="container">
+            <div class="Sign_up">
+                <h1></h1>
+            <a href="Sign_up"></a>
+        </div>
+          <h6>Sign Up</h>
+          <p>Please fill in this form to create an account.</p>
+          <hr>
+      
+          <label for="email"><b>Email</b></label>
+          <input type="text" placeholder="Enter Email" name="email" required>
+      
+          <label for="Address"><b>Physical Address</b></label>
+          <input type="text" placeholder="Enter Email" name="email" required>
+
+          <label for="psw"><b>Password</b></label>
+          <input type="password" placeholder="Enter Password" name="psw" required>
+      
+          <label for="psw-repeat"><b>Repeat Password</b></label>
+          <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+            
+          <label for="num-people"> Number Of Visitors:</label>
+          <div class="People-Widget">
+            <button type="button" class="widget-button" id="decrease-btn">-</button>
+            <span id="num-people">0</span>
+            <button type="button" class="widget-button" id="increase-btn">+</button>
+            <input type="hidden" id="num-people-input" name="num-people" value="0">
+          </div>
+
+          <label for="proof-address"> Proof Of Address:</label>
+          <input type="file" id="proof-address" name="proof-address" accept="pdf,.jpg,.png" required>
+
+          <label for="proof-address"> Proof Of Address:</label>
+          <input type="file" id="proof-address" name="proof-address" accept="pdf,.jpg,.png" required>
+
+          <label for="chalet-select">Select Chalet:</label>
+          <select id="chalet-select" name ="chalet-select">
+              <option value ="kakapo"> Kakapo Chalet</option>
+              <option value ="Pukeko"> Pukeko Chalet</option>
+              <option value ="Kureru"> Kereru Chalet</option>
+          </select>
+
+          <label for="visit-date"> Choose your visit date:</label>
+          <input type="date" id = "visit-date" name = "visit-date" required>
+        
+
+          <label>
+            <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+          </label>
+      
+          <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+      
+          <div class="clearfix">
+            <button type="button" class="cancelbtn">Cancel</button>
+            <button type="submit" class="signupbtn" onclick=>Sign Up</button>
+            <div class="popup" id="popup">
+                <div class="popup-content">
+                    <span class="popup-close" onclick="closePopup()">&times;</span>
+                    <p>Thank you for joining Maunga Club! We will review your submission and get back to you soon.</p>
+                </div>
+          </div>
+        </div>
+    </form>
+</form>
+</label>
                     <h5> Nestled amidst a pristine winter wonderland, this luxurious snow cabin offers an enchanting escape that will leave you breathless. Imagine waking up to the awe-inspiring view from your window, where a sea of snow-draped pine trees stretches as far as the eye can see, glistening in the soft morning light. The interior of this cozy haven exudes warmth and comfort, with plush, fur-lined furnishings and a crackling fireplace that promises to keep you toasty even in the coldest of nights. Large picture windows not only frame those stunning views but also allow you to immerse yourself in the tranquil beauty of the season. Sip on hot cocoa while wrapped in a soft blanket, and let the serenity of this snow cabin rejuvenate your soul. Whether it's a romantic getaway or a family adventure, this cabin is your ticket to an unforgettable winter retreat. Don't miss your chance to experience the magic of this snowy paradise – book your stay now! </h5>
                 </div>
