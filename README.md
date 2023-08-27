@@ -67,3 +67,34 @@
             
     </div>
 
+    <table>
+        <tr>
+            <th>Chalet Number</th>
+            <th>Chalet Name</th>
+            <th>Maximum Adults</th>
+            <th>Maximum Children</th>
+            <th>Features</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Kakepo</td>
+            <td>10</td>
+            <td>30</td>
+            <td>&#8226; Largest Of The Chalets<br>&#8226; Largest Kitchen, Living and Dining Area<br>&#8226; Greatest Amenities</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Pukeko</td>
+            <td>6</td>
+            <td>15</td>
+            <td>&#8226; Great for large groups/families wanting a chalet to themselves<br>&#8226; Limits on adult/child number ensure comfortable stay<br></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Kereru</td>
+            <td>2</td>
+            <td>4</td>
+            <td>&#8226; Great option for a family<br>&#8226; 2 bedrooms<br>&#8226; Perfect for families with 2-4<br>&#8226; Separate living area<br></td>
+        </tr>
+    </table>
+
